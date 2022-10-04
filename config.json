@@ -1,0 +1,19 @@
+{
+  "clientId": "ID DE VOTRE BOT",
+
+
+  "parentOpened": "CATEGORIE DE L'OUVERTURE",
+  "parentSpaceDev": "CATEGORIE DE L'OUVERTURE",
+  "parentSpaceDev2": "CATEGORIE DE L'OUVERTURE",
+  "parentSpaceDev3": "CATEGORIE DE L'OUVERTURE",
+  "parentSpaceDev4": "CATEGORIE DE L'OUVERTURE",
+
+
+  "roleSupport": "ROLE STAFF DE VOTRE SERVEUR",
+
+  
+  "logsTicket": "LE SALON DES LOGS TICKETS",
+  "ticketChannel": "LE SALON DES TICKETS",
+
+  "footerText": "SpaceDev"
+}
